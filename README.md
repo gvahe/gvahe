@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Vahe Gharakhanyan
+
 [![Personal](https://img.shields.io/static/v1?label=&message=Personal%20Website&color=0077B5&style=flat-square)](https://gvahe.github.io/)
 [![Google Scholar](https://img.shields.io/static/v1?label=&message=Google%20Scholar&color=gray&style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=EGbXN4sAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vahegharakhanyan/)
